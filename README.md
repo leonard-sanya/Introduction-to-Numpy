@@ -10,5 +10,3 @@ Python is a high-level, interpreted, and general-purpose programming language th
 
 - **Numpy_part1.py** - Learn different modules within numpy library.
 - **Numpy_part2.py** - Application of numpy library in solving linear algebra related problems
-- **Pandas.py** - Learn different modules within pandas library.
-- **Pytorch_part1.py**- Learn the introduction to pytorch
